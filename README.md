@@ -7,7 +7,7 @@
 
 
 
-This is Document Scaaner App
+This is Document Scanner App
 
 This App is Created by using MLKit of Google
 
