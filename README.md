@@ -18,7 +18,7 @@ If you want to create this kind of App so, first of all you need to add these de
 2. annotationProcessor ("com.github.bumptech.glide:compiler:4.15.0")
 3. implementation ("com.google.android.gms:play-services-mlkit-document-scanner:16.0.0-beta1")
 
-nad for reference you can go with this Documentaion:-
+and for reference you can go with this Documentaion:-
 https://developers.google.com/ml-kit/vision/doc-scanner/android
 
 Thank You
